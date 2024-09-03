@@ -1,0 +1,8 @@
+.table{
+    border: 10px ridge purple;
+}
+
+.flex-container{
+    display: flex;
+    flex-wrap: wrap;
+}
